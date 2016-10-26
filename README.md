@@ -1,0 +1,1 @@
+"# octobercms-book-plugin" 
